@@ -1,0 +1,12 @@
+{
+  "name": "indecision",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AaronGoldsmith1/indecision-app.git",
+  "author": "Aaron Goldsmith <aarongoldsmith@msn.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-env": "1.5.2",
+    "babel-preset-react": "6.24.1"
+  }
+}
